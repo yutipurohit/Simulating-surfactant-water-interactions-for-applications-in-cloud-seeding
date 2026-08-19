@@ -1,0 +1,2 @@
+# Simulating-surfactant-water-interactions-for-applications-in-cloud-seeding
+A computational essay simulating Lennard-Jones potential of surfactant-based cloud condensation nuclei (CCNs) to quantify efficiency for cloud seeding. Through the quantum chemistry paclet, vapor-surfactant interactions are modeled and the critical condensation radii is calculated, which can serve as a metric for comparing CCN performance.
